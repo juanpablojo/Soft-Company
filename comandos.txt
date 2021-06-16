@@ -1,0 +1,21 @@
+/* git init*/
+
+## ls
+
+## ls -alh
+
+## ls -i
+
+##ll objects/
+
+##vim checklist.txt
+
+/*git status*
+/
+/*ll .git/objects*
+/
+/*git add .*
+/
+/*git add -A*
+/
+/*git diff*/
